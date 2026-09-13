@@ -1,0 +1,6 @@
+{
+  "name": "Audiobook Video Player Overlay Template",
+  "description": "A sleek 16:9 YouTube audiobook video player overlay interface template (1080p to 4K UHD) with MP3 audio support, SRT/VTT/SBV captions, book metadata, Option A complete cover art & ambient glow, Option B clean blank frame, and cloud server-side rendering export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
